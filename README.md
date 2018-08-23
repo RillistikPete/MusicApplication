@@ -22,6 +22,7 @@ To clone repository as source code, it is assumed the user has Git installed.  T
 3. To run program:
 
 ```dotnet restore```
+
 ```dotnet run```
 
 

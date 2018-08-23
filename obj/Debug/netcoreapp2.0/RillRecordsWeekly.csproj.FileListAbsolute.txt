@@ -1,0 +1,11 @@
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/bin/Debug/netcoreapp2.0/RillRecordsWeekly.deps.json
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/bin/Debug/netcoreapp2.0/RillRecordsWeekly.runtimeconfig.json
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/bin/Debug/netcoreapp2.0/RillRecordsWeekly.runtimeconfig.dev.json
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/bin/Debug/netcoreapp2.0/RillRecordsWeekly.dll
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/bin/Debug/netcoreapp2.0/RillRecordsWeekly.pdb
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.csprojResolveAssemblyReference.cache
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.csproj.CoreCompileInputs.cache
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.AssemblyInfoInputs.cache
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.AssemblyInfo.cs
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.dll
+/Users/peterforrest/workspace/Csharp/RillRecordsWeekly/obj/Debug/netcoreapp2.0/RillRecordsWeekly.pdb

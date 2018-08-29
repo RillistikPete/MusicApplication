@@ -1,4 +1,4 @@
-﻿// // Write your JavaScript code.
+﻿
 
 
 var audio = document.getElementById('myAudio');

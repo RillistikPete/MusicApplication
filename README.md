@@ -1,5 +1,3 @@
-# Music Application
-
 This is a template for building a web application containing audio players that has navigation and other functionality. See README for more information.  
 
 #### .NET MVC

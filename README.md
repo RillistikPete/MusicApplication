@@ -1,6 +1,6 @@
 # Music Application
 
-Mock repository of a music producer artist web page that plays an audio track, soon to be customized for audio controls such as scrubbing.
+This is a template for building a web application containing audio players, navigation, and other functionality. See README for more information.  
 
 #### .NET MVC
 #### C#

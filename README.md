@@ -13,7 +13,7 @@ This is a template for building a web application containing audio players, navi
 
 ## To Clone:
 
-To clone repository as source code, it is assumed the user has Git installed.  To install Git in your terminal, follow these instructions: [Downloading Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+To clone repository as source code, it is assumed the user has Git installed, as well as an IDE such as Visual Studio. This application also requires installation of [.NET](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial).  To install Git in your terminal, follow these instructions: [Downloading Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 1. In terminal / cmd prompt - Navigate to desired directory on your machine and type:
 

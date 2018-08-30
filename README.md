@@ -2,10 +2,12 @@
 
 Mock repository of a music producer artist web page that plays an audio track, soon to be customized for audio controls such as scrubbing.
 
-#### C# MVC
-#### HTML5 Audio Player
+#### .NET MVC
+#### C#
+#### HTML5
 #### JavaScript
 #### CSS
+#### Bootstrap
 
 <hr>
 
@@ -15,15 +17,17 @@ To clone repository as source code, it is assumed the user has Git installed.  T
 
 1. In terminal / cmd prompt - Navigate to desired directory on your machine and type:
 
-```git clone https://github.com/RillistikPete/MusicApplication.git YourRepositoryName```
+    ```git clone https://github.com/RillistikPete/MusicApplication.git YourRepositoryName```
 
 2. Exchange "YourRepositoryName" with the desired name of your new source code project.
 
 3. To run program:
 
-```dotnet restore```
+    ```dotnet restore```
 
-```dotnet run```
+    ```dotnet run```
 
+4. Add audio files to the 'audio' folder under 'wwwroot'.  The six audio players will all play the same sample audio file unless changed.  To do this, find the .ogg file locations in 'Index.cshtml' and replace.  Change the images the same way by adding images to the image folder and replacing the source in each img tag.
 
+5. See 'site.js' for instructions on adding functionality to your audio players.
 

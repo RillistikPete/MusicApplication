@@ -1,5 +1,5 @@
 ﻿
-
+//Manually creating a play/pause buttons
 
 var audio = document.getElementById('myAudio');
 var playButton = document.getElementById('playBtn');
@@ -9,34 +9,34 @@ playButton.addEventListener('click', () => {
     audio.play();
 });
 
-
-
 function pauseAudio() {
     audio.pause();
 }
 
 
+// D O C S  T O  M A K E  Y O U R  M U S I C  A P P  E V E N  C O O L E R
 
+// USE ANY OF THE LOGIC BELOW TO HAVE MORE CONTROL OVER YOUR AUDIO FILES
+// =====================================================================
 
+//  Get all elements with a class of 'x':
+// var trackList = document.querySelectorAll('.x');
 
-// // Get all elements with a class of track
-// var trackList = document.querySelectorAll('.track');
-
-// // When the spacebar is pressed
+// ** When the spacebar is pressed:
 // document.addEventListener('keypress', function(key){
 //   if( key.keyCode == 32 ){
 
 //   }
 // });
 
-// // When .track is clicked
+// ** When '.x' class is clicked:
 // function playPause(){
 //   trackList[i].addEventListener('click', function(e){
 
 //   });
 // }
 
-// // Applying the function to all .track elements
+// ** Applying the function to all '.x' elements
 // for ( i=0; i < trackList.length; i++ ) {
 //   playPause();
 // }
@@ -56,7 +56,7 @@ function pauseAudio() {
 
 // //_________________________________________________________
 
-//   // A function to check if an element has a class
+//  ** A function to check if an element has a class:
 // function hasClass(el, cls) { 
 //     return el.className && new RegExp('(\\s|^)' + cls + '(\\s|$)').test(el.className);
 //   }
@@ -64,7 +64,7 @@ function pauseAudio() {
 
 // //_________________________________________________________
 
-// // When the spacebar is pressed
+// ** When the spacebar is pressed:
 // document.addEventListener('keypress', function(key){
 //     if( key.keyCode == 32 ){
 //       // If no songs have been played yet
@@ -85,20 +85,20 @@ function pauseAudio() {
 
 //  //_________________________________________________________
 
-//  // When .track is clicked
-// function playPause(){
+//  ** When '.x' is clicked:
+//  function playPause(){
 //     trackList[i].addEventListener('click', function(e){
 //       // Saves li instead of a
 //       var selected = this.parentNode;
 //       // Finds index of the selected li
 //       index = findIndex(selected);
   
-//       // If a song is being played for the first time, add a class to .playlist
+//       // If a song is being played for the first time, add a class to .playlist:
 //       if( !hasClass(document.querySelectorAll('.playlist')[0], 'activated') ){
 //         document.querySelectorAll('.playlist')[0].classList.add('activated');
 //       }
   
-//       // If selected 
+//       // If selected:
 //       if( hasClass(selected, 'playing') || (document.querySelectorAll('.playing').length !== 0)){
 //         if (!hasClass(selected, 'playing') && (document.querySelectorAll('.playing').length !== 0)) {
 //           if (selected.parentNode.hasChildNodes()){
@@ -123,5 +123,7 @@ function pauseAudio() {
 //         !hasClass(selected, 'paused') && song.currentTime > 0 ? (song.pause(), selected.classList.add('paused')) : hasClass(selected, 'paused') && song.currentTime > 0 && selected.classList.remove('paused'); !1;
 //     });
 //   }
+
+
 
 

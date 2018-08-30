@@ -33,3 +33,12 @@
         display: none;
     }
 }
+
+.buttons {
+    margin-left: 20px;
+}
+
+.audioPic {
+    max-width: 150px;
+    max-height: 150px
+}

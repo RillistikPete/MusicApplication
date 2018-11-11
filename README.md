@@ -30,3 +30,6 @@ To clone repository as source code, it is assumed the user has Git installed (To
 
 5. See 'site.js' for instructions on adding functionality to your audio players.
 
+6. See preview below. Replace audio files and placeholder images to set up your new music player application!
+
+![](https://raw.githubusercontent.com/rillistikpete/MusicApplication/master/wwwroot/images/musicappscreenshot.png)

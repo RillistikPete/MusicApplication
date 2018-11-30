@@ -32,4 +32,4 @@ To clone repository as source code, it is assumed the user has Git installed (To
 
 6. See preview below. Replace audio files and placeholder images to set up your new music player application!
 
-![](https://raw.githubusercontent.com/rillistikpete/MusicApplication/master/wwwroot/images/ssmusicapp.png)
+![screenshotma](https://raw.githubusercontent.com/rillistikpete/MusicApplication/master/wwwroot/images/ssmusicapp.png)

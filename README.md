@@ -1,11 +1,10 @@
-This is a template for building a web application containing audio players that has navigation and other functionality. See README for more information.  
+This repository is for those who have ever wanted to make a website that will showcase and play their music. This is an MVC template to use when building your app that contains audio players. Includes navigation and other functionality. See README for more information.  
 
 #### .NET MVC
 #### C#
 #### HTML5
 #### JavaScript
-#### CSS
-#### Bootstrap
+
 
 <hr>
 

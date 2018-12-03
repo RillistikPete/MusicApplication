@@ -14,8 +14,7 @@ function pauseAudio() {
 }
 
 
-// D O C S  T O  M A K E  Y O U R  M U S I C  A P P  E V E N  C O O L E R
-
+// COOL TRICKS TO BUILD INTO YOUR APP:
 // USE ANY OF THE LOGIC BELOW TO HAVE MORE CONTROL OVER YOUR AUDIO FILES
 // =====================================================================
 
